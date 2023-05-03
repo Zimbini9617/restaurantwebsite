@@ -50,7 +50,7 @@ h1 {
 .grid-item1 {
   grid-row: 1 / span 3;
   padding: 90px;
-  background-image: url(./images/images5.jpeg);
+  background-image: url("https://source.unsplash.com/photos/Oxb84ENcFfU");
   background-size: cover;
   color: white;
   font-size: 35px;

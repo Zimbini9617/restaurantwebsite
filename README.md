@@ -10,7 +10,7 @@ Creating restaurant website using html and css
 
 ## Live View
 
-[Restaurant-Wbsite]
+[Restaurant-Wbsite](https://resplendent-sable-ae279a.netlify.app/)
 
 ## Built With
 
